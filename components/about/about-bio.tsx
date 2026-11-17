@@ -34,7 +34,7 @@ export const AboutBio: FC = () => {
       <p className="mt-4 leading-relaxed text-neutral-400">
         From <span className="text-white">Front-End Developer</span> to{" "}
         <span className="text-white">Junior Team Lead</span>, and now{" "}
-        <span className="text-white">Senior Software Engineer at Getweys</span>,
+        <span className="text-white">Senior Software Engineer at Ordinet Solutions</span>,
         I&apos;ve led teams, mentored developers, and contributed to architecture
         decisions that kept codebases scalable and maintainable.
       </p>
