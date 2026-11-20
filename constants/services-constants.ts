@@ -49,4 +49,18 @@ export const SERVICES: Service[] = [
       "Background jobs & webhooks",
     ],
   },
+  {
+    id: 5,
+    title: "SEO & Digital Optimization",
+    description:
+      "Data-driven SEO strategies to improve search rankings, increase organic traffic, and enhance online visibility.",
+    icon: "/assets/logos/seo.svg",
+    bullets: [
+      "On-page, off-page & technical SEO",
+      "Keyword research & competitor analysis",
+      "Website audits & performance optimization",
+      "Google Analytics & Search Console",
+      "Local SEO & organic traffic growth",
+    ],
+  },
 ];

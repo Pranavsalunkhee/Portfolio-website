@@ -48,7 +48,7 @@ export const SITE_KEYWORDS = [
   "Freelance Developer",
   "Hire Software Engineer",
   HERO_LOCATION,
-  "Pakistan",
+  "India",
   "Remote Developer",
 ];
 
